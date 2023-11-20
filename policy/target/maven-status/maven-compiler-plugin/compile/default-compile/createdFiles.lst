@@ -1,0 +1,4 @@
+com\staragile\insurance\policy\Policy.class
+com\staragile\insurance\policy\PolicyController.class
+com\staragile\insurance\policy\PolicyService.class
+com\staragile\insurance\policy\PolicyApplication.class
